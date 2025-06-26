@@ -43,11 +43,10 @@
 ## 📂 Repository Structure
 
 ```
-cybersecurity-task-3-vulnerability-scan/
-│
-├── README.md             # This file
-├── vulnerability_report.md
-└── screenshots/
+Task-3
+│    
+├── Vulnerability_report.md
+└── Screenshots/
     ├── scan_setup.png
     ├── vulnerabilities_list.png
     ├── ssl_certificate_issue.png
